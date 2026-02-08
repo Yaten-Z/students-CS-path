@@ -14,7 +14,7 @@ Maintained by a student, for students.
 
 As a junior high school student, I've found that computer science is much more approachable than most people think, as long as you're genuinely interested and willing to learn. You don't have to be a genius, just be curious, consistent and hardworking.
 
-## Before You Start
+# Before You Start
 
 Before you begin, you might have a few questions:
 
@@ -33,7 +33,7 @@ Now, let's begin your journey into computer science.
 
 At this point, you need not to build complex projects. understanding computer is more useful fou you. When you coding, you should feel the computer. First, you need to choose a first language.
 
-## 1. First Programming Language
+# 1. First Programming Language
 
 As a beginner, you don't need to master multiple languages right away. Mastering one core language is far more important for building a solid foundation.
 
@@ -49,7 +49,7 @@ C++ is the only language allowed in Olympiad in Information (OI, like NOI or USA
 
 Scratch is the easiest entry point for younger learners or absolute beginners. Instead of typing lines of code, you snap together blocks like LEGOs. However, don't stay in the Scratch for too long; transition to text-based coding when you feel ready.
 
-## 2. Core Skills for Students
+# 2. Core Skills for Students
 
 ### Linux
 
@@ -71,7 +71,7 @@ GitHub is the most important community for programmers. It's not just a place to
 
 Google and AI
 
-## 3. Build Projects Early
+# 3. Build Projects Early
 
 blog
 
@@ -81,9 +81,9 @@ personal homepage
 
 tool scripts
 
-## 4. Choose a Direction
+# 4. Choose a Direction
 
-## 5. The core of Computer science
+# 5. The core of Computer science
 
 ### Programming
 
@@ -103,7 +103,7 @@ tool scripts
 
 ### Distributed Systems
 
-## 6. Huge Mistakes Students Make
+# 6. Huge Mistakes Students Make
 
-## 7. How can I learn these
+# 7. How can I learn these
 
