@@ -59,17 +59,22 @@ You don't need to delete Windows or macOS. You can try Linux inside a VM (Virtua
 
 ### Git & GitHub
 
-GitHub is the most important community for programmers. It's not just a place to store code, it's where you learn from others.
+Git is a version control system that helps you track changes in your code and collaborate with others. GitHub is a platform that hosts your Git repositories and allows you to share your code with the world. Learning Git and GitHub will enable you to manage your projects more effectively and collaborate with other developers. You can start by learning basic commands like `git init`, `git add`, `git commit`, and `git push`. As you become more comfortable, you can explore more advanced features like branching and pull requests.
 
 ### Markdown
+Markdown is a simple way to format text. It's used everywhere, from GitHub to blogs. Learning Markdown will help you write better documentation and communicate more effectively with other developers. You can learn Markdown in just a few minutes, and it's a skill that will serve you well throughout your programming journey.
 
 ### Searching
+Knowing how to search effectively is a crucial skill for any programmer. When you encounter a problem, the first step is to search for it online. Use specific keywords related to your issue, and don't be afraid to read through forums, documentation, and tutorials. The ability to find solutions quickly will save you a lot of time and frustration. Using AI tools like Deepseek or ChatGPT can also be a great way to get quick answers and explanations, but make sure to verify the information you receive from AI with other sources.
 
 ### Math
+While you don't need to be a math genius to start programming, having a good grasp of basic math concepts can be very helpful. Topics like algebra, logic, and discrete mathematics often come up in programming. As you progress, you may find that certain areas of computer science, such as algorithms and data structures, require more advanced math. However, you can learn these concepts as you go along, so don't worry about mastering them before you start coding. 
 
 ### English
+English is the lingua franca of programming. Most programming languages use English keywords, and the majority of documentation, tutorials, and forums are in English. While you can start learning to code without being fluent in English, improving your English skills will open up a world of resources and opportunities in the programming community. You can start by learning basic technical vocabulary and gradually improve your reading and writing skills as you go.
 
-Google and AI
+### Google and AI
+Being able to effectively use search engines and AI tools is an essential skill for programmers. When you encounter a problem or need to learn something new, the first step is often to search for it online. Use specific keywords related to your issue, and don't be afraid to read through forums, documentation, and tutorials. AI tools like Deepseek or ChatGPT can also be great resources for getting quick answers and explanations. However, it's important to verify the information you receive from AI with other sources, as AI can sometimes provide inaccurate or incomplete information.
 
 # 3. Build Projects Early
 
