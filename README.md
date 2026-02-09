@@ -14,19 +14,17 @@ Maintained by a student, for students.
 
 As a junior high school student, I've found that computer science is much more approachable than most people think, as long as you're genuinely interested and willing to learn. You don't have to be a genius, just be curious, consistent and hardworking.
 
-## Before You Start
-
 Before you begin, you might have a few questions:
 
 1. **Do I need a powerful computer?**
 ***No.** An ordinary computer is more than enough when you're starting out.*
-2. **Should I learn math first?**
+1. **Should I learn math first?**
 ***No.** Math determines your ceiling, not your floor.*
-3. **Is English important?**
+1. **Is English important?**
 ***Yes.** Many high-quality learning resources are available only in English.*
-4. **Do I need to understand how computers work beforehand?**
+1. **Do I need to understand how computers work beforehand?**
 ***No.** You'll develop that understanding naturally as you learn.*
-5. **Do I need to study computer science all day?**
+1. **Do I need to study computer science all day?**
 ***No.** In fact, many great developers maintain hobbies such as sports, reading, traveling, ~~and cross-dressing~~.*
 
 Now, let's begin your journey into computer science.
